@@ -1224,7 +1224,7 @@
       - !type:HealthChange
         damage:
           types:
-            Piercing: -0.25 # 10 per u
+            Piercing: -0.19 # 10 per u
             Radiation: 0.02 # 0.02 per u, 3 for 15u
       - !type:HealthChange
         conditions:
